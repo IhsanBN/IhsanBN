@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ihsan! 👋
 
-<!--
-**IhsanBN/IhsanBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Hello! My name is Ihsan Budhi Nugroho, I am an undergraduate student of Information Systems at Universitas Singaperbangsa Karawang, Karawang, West Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have skills in SQL Database, Microsoft Office
+
+
+
+## 🛠 Skills
+SQL Database, Microsoft Office
+
+
+## 🔗 Social
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihsan-budhi-nugroho-41a445281/)
